@@ -10,14 +10,16 @@ Sherif Shawky Abdelmenem
 
 22
  
-### My Department in College
+### My Department 
 
 Electronics and Communication
-
-### My graduation year
-
-2024
 
 ### My favorite team
 
 Software(Computer Vision)
+
+###Cloning repo
+
+You can clone my repo by the following command
+* You can clone my repo by the following command:
+``` git clone
