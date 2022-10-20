@@ -4,7 +4,7 @@
 
 ### My Name
 
-Sherif Shawky Abdelmenem
+` Sherif Shawky Abdelmenem `
 
 ### My Age
 
@@ -18,8 +18,11 @@ Electronics and Communication
 
 Software(Computer Vision)
 
-###Cloning repo
+### Cloning repo
 
-You can clone my repo by the following command
 * You can clone my repo by the following command:
-``` git clone
+``` 
+git clone https://github.com/Sherif2024/SherifShawky_MindCloud.git 
+```
+### Following me on Github
+You can find my Github account [HERE](https://github.com/Sherif2024)
